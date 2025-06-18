@@ -1,4 +1,4 @@
-# 🕹️ Temple Run Controlled with Hand Gestures
+# 🕹️ Temple Run Controlled with Hand Gestures (HandPowerGame)
 
 Play Temple Run using only your hand gestures — no keyboard or mouse needed!  
 This project uses **Computer Vision** to detect hand gestures in real-time and map them to game actions, creating a fun and touchless gaming experience.
@@ -18,7 +18,7 @@ This project uses **Computer Vision** to detect hand gestures in real-time and m
 
 ## 🛠️ Tech Stack
 
-| Technology    | Purpose                          |
+| Technology    | Purpose                           |
 |---------------|-----------------------------------|
 | Python        | Core programming language         |
 | MediaPipe     | Hand gesture detection            |
